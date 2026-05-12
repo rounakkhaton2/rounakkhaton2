@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
 ### Java Full Stack Engineer · Spring Boot · Angular · Fintech
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raunakkhaton&color=0F2D4A&style=flat-square&label=Profile+Views)](https://github.com/raunakkhaton)
+[![Profile Views](https://komarev.com/ghpvc/?username=rounakkhaton2&color=0F2D4A&style=flat-square&label=Profile+Views)](https://github.com/rounakkhaton)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2D4A?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rounak-khaton-058b90232/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-1565C0?style=flat-square&logo=gmail)](mailto:rounakkhaton86@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-546E7A?style=flat-square)](#)
@@ -140,7 +140,7 @@ Results-driven **Java Full Stack Engineer** with **2+ years** of production expe
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/rounak-khaton](https://www.linkedin.com/in/rounak-khaton-058b90232/) |
 | 📧 Email | [rounakkhaton86@gmail.com](mailto:rounakkhaton86@gmail.com) |
-| 🐙 GitHub | [github.com/raunakkhaton](https://github.com/raunakkhaton) |
+| 🐙 GitHub | [github.com/rounakkhaton2](https://github.com/rounakkhaton2) |
 
 </div>
 
