@@ -18,7 +18,7 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0F2D4A&height=200&section=header&text=Rounak%20Khaton&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Engineer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20Fintech&descAlignY=58&descSize=16&descColor=90CAF9)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raunakkhaton&color=0F2D4A&style=flat-square&label=Profile+Views)](https://github.com/raunakkhaton)
+[![Profile Views](https://komarev.com/ghpvc/?username=rounakkhaton2&color=0F2D4A&style=flat-square&label=Profile+Views)](https://github.com/rounakkhaton2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2D4A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-khaton-058b90232/)
 [![Email](https://img.shields.io/badge/Gmail-rounakkhaton86%40gmail.com-1565C0?style=flat-square&logo=gmail&logoColor=white)](mailto:rounakkhaton86@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-546E7A?style=flat-square)](https://maps.google.com/?q=Hyderabad,India)
